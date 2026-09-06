@@ -4,9 +4,10 @@ Campaign website for Christopher Cruz, candidate for Treasurer of the Ida Baker 
 
 **Slogan:** Banking on a Better Year with Christopher Cruz
 
-## Live site
+## Links
 
-https://christopher-cruz-treasurer.vercel.app
+- Live site: https://christopher-cruz-treasurer.vercel.app
+- GitHub: https://github.com/wiseowl17/christopher-cruz-treasurer
 
 ## Local preview
 
